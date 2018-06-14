@@ -4,34 +4,34 @@
 						<div class="row">
 							<div class="col-md-3 col-sm-6">
 								<div class="feature">
-									<img src="<?php echo base_url();?>asset/images/icon-research-small.png" alt="" class="feature-image">
-									<h2 class="feature-title">ANALYSIS</h2>
-									<p>Our team can analyze your businesses requirements to make sure our system will fit your business processes.</p>
-									<a href="" class="button">Contact Us Now</a>
+									<img src="<?php echo base_url();?>asset/images/web_design.png" alt="" class="feature-image">
+									<h4 class="feature-title">Website Development</h4>
+									
+									<a href="<?php echo base_url()?>contactus" class="button">Contact Us Now</a>
 								</div>
 							</div>
 							<div class="col-md-3 col-sm-6">
 								<div class="feature">
-									<img src="<?php echo base_url();?>asset/images/icon-medicine-small.png" alt="" class="feature-image">
-									<h2 class="feature-title">TRAINING</h2>
-									<p>We will setup our solutions to fit your needs and completely train your staff to use our system.</p>
-									<a href="" class="button">Contact Us Now</a>
+									<img src="<?php echo base_url();?>asset/images/mobile_dev.png" alt="" class="feature-image">
+									<h4 class="feature-title">Mobile App Development</h4>
+									
+									<a href="<?php echo base_url()?>contactus" class="button">Contact Us Now</a>
 								</div>
 							</div>
 							<div class="col-md-3 col-sm-6">
 								<div class="feature">
-									<img src="<?php echo base_url();?>asset/images/icon-genetics-small.png" alt="" class="feature-image">
-									<h2 class="feature-title">Development</h2>
-									<p>We will setup our solutions to fit your needs and completely train your staff to use our system.</p>
-									<a href="" class="button">Contact Us Now</a>
+									<img src="<?php echo base_url();?>asset/images/system.png" alt="" class="feature-image">
+									<h4 class="feature-title">System Management</h4>
+									
+									<a href="<?php echo base_url()?>contactus" class="button">Contact Us Now</a>
 								</div>
 							</div>
 							<div class="col-md-3 col-sm-6">
 								<div class="feature">
-									<img src="<?php echo base_url();?>asset/images/icon-energy-small.png" alt="" class="feature-image">
-									<h2 class="feature-title">SUPPORT</h2>
-									<p>We will setup our solutions to fit your needs and completely train your staff to use our system.</p>
-									<a href="" class="button">Contact Us Now</a>
+									<img src="<?php echo base_url();?>asset/images/secu_consult.png" alt="" class="feature-image">
+									<h4 class="feature-title">Web Security Consultant</h4>
+									
+									<a href="<?php echo base_url()?>contactus" class="button">Contact Us Now</a>
 								</div>
 							</div>
 						</div> <!-- .row -->
@@ -59,7 +59,7 @@
 					<div class="container">
 						<h2 class="cta-title">Why choose Us?</h2>
 						<p>Trust Solidarity Responsibility</p>
-						<a href="#" class="button">Contact Us Now</a>
+						<a href="<?php echo base_url()?>contactus" class="button">Contact Us Now</a>
 					</div>
 				</div>
 

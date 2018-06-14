@@ -1363,8 +1363,8 @@ form input[type="submit"], form button, form input[type="reset"] {
   .feature .feature-image {
     margin-bottom: 20px; }
   .feature .feature-title {
-    font-size: 30px;
-    font-size: 2em;
+   font-weight: bold;
+    font-size: 17px;
     font-weight: 300; }
   .feature p {
     font-size: 16px;
