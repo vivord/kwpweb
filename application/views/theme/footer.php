@@ -52,7 +52,7 @@
 						</div>
 					</div> <!-- .row -->
 
-					<p class="colophon">Copyright @2016 KWP. All rights reserved</p>
+					<p class="colophon">Copyright @<?php echo date('Y');?> Khpro Solutions. All rights reserved</p>
 				</div> <!-- .container -->
 			</footer>
 		</div>
